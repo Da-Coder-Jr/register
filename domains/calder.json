@@ -1,0 +1,11 @@
+{
+  "github": "Da-Coder-Jr",
+  "name": "Calder",
+  "description": "My personal website.",
+  "website": "https://da-coder-jr.github.io",
+  "email": "example@example.com",
+  "dns": ["CNAME"],
+  "records": {
+    "CNAME": "da-coder-jr.github.io"
+  }
+}
